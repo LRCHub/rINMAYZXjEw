@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "V字上昇Victory(Instrumental)",
+  "base_artist": "雀が原中学卓球部",
+  "createdAt": "2026-03-14T15:34:22.825006Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "V字上昇Victory - Instrumental",
+      "artist": "雀が原中学卓球部",
+      "has_synced": false,
+      "path": "select/pl_01_V字上昇Victory_-_Instrumental_雀が原中学卓球部.txt"
+    }
+  ]
+}
